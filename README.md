@@ -1,32 +1,15 @@
-<<<<<<< HEAD
-# onlineLecture
-강의 들으며 공부한 내용 정리
-=======
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
->>>>>>> c35c725 (chore: 개발환경 설정)
+# 블로그 앱 프로젝트
+## 🎶css의 BEM 모델
+- BEM(Block-Element-Modifier) 모델: CSS 클래스 네이밍 방법
+- 장점: 가독성, 재사용성, 유지보수성
+- 단점: 클래스명 길어질 수 있음
+- 구성
+ 1. Block (예를 들어 header)
+ 2. Element (예를 들어 logo)
+ 3. Modifier (예를 들어 primary)
+- 예시
+ 1. "block"
+ 2. "block__title"
+ 3. "block__list"
+ 4. "block__list-item"
+ 5. "block__list-item--highlighted"
