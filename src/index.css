@@ -34,6 +34,16 @@ footer {
   gap: 20px;
 }
 
+footer a {
+  text-decoration: none;
+  color: gray;
+}
+
+footer a:focus,
+footer a:hover {
+  color: black;
+}
+
 .post__list {
   min-height: 90vh;
   padding: 20px 40px;
