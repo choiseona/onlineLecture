@@ -33,3 +33,9 @@ footer {
   justify-content: center;
   gap: 20px;
 }
+
+.post-list {
+  min-height: 90vh;
+  padding: 20px 40px;
+  text-align: center;
+}
