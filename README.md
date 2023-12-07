@@ -1,48 +1,11 @@
-## Lecture-1
+# onlineLecture
 
-'프론트엔드 개발자를 위한, 실전 웹 성능 최적화(feat. React) - Part. 1' 1번째 강의 소스입니다.
+강의 들으며 공부한 내용 정리
 
-### 실행
+### [commit convention]
 
-1. download sources
-
-```
-$ git clone https://github.com/performance-lecture/lecture-1.git
-```
-
-2. install dependencies
-
-```
-$ npm install
-or
-$ yarn
-```
-
-3. start development server
-
-```
-$ npm run start
-or
-$ yarn start
-```
-
-4. start json-server
-
-```
-$ npm run server
-or
-$ yarn server
-```
-*3번의 dev server 와 다른 콘솔에서 띄워줍니다.
-
-5. build + serve
-
-```
-$ npm run serve
-or
-$ yarn serve
-```
-
-### 질문
-
-궁금하신 부분은 강의 내 질문 & 답변 게시판 또는 해당 레포지토리의 Issues를 이용해주시기 바랍니다.
+- feat: 새로운 기능 추가
+- fix: 버그 수정
+- docs: 문서 수정
+- refactor: 리팩토링
+- chore: 코드 포맷팅, 패키지 매니저 수정, 파일 삭제, 파일 이름 변경 등
