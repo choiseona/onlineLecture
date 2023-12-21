@@ -1,5 +1,5 @@
-# onlineLecture
-강의 들으며 공부한 내용 정리
+# react-study
+리액트 공부한 내용 정리
 
 ### [commit convention]
 - feat: 새로운 기능 추가
