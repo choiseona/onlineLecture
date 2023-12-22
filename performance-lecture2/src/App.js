@@ -8,6 +8,10 @@ import Footer from './components/Footer'
 
 const LazyImageModal = lazy(() => import('./components/ImageModal'));
 
+const handleMouseEnter = () => {
+    const component = import('./components/ImageModal');
+}
+
 function App() {
     const [showModal, setShowModal] = useState(false)
 
@@ -16,7 +20,7 @@ function App() {
             <Suspense fallback={null}>
                 <Header />
                 <InfoTable />
-                <ButtonModal onClick={() => { setShowModal(true) }}>올림픽 사진 보기</ButtonModal>
+                <ButtonModal onClick={() => { setShowModal(true) }} onMouseEnter={handleMouseEnter}>올림픽 사진 보기</ButtonModal>
                 <SurveyChart />
                 <Footer />
                 {showModal ? <LazyImageModal closeModal={() => { setShowModal(false) }} /> : null}
