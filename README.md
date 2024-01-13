@@ -1,5 +1,6 @@
 # react-study-performance
-리액트 성능 최적화 공부한 내용 정리
+- 리액트 성능 최적화 공부한 내용 정리
+- 책 내용이라 저작권 문제가 발생할 수 있으므로 노션 비공개 처리 하였습니다
 
 ## lecture1
 [노션 - 이미지 사이즈 최적화](https://www.notion.so/c18cf58e4ba140e187be5125a13d4f83?pvs=4)
@@ -31,3 +32,12 @@
 [노션 - 캐시 최적화](https://www.notion.so/10a88dc043de4b9fb458ac80d9f1437f?pvs=4)
 <br>
 [노션 - 불필요한 CSS 제거](https://www.notion.so/CSS-bf971b562c05432688fe52857eb3a5ad?pvs=4)
+
+## lecture4
+[노션 - 레이아웃 이동 피하기](https://www.notion.so/18997df286c34a63bb5614dab3ef78d1?pvs=4)
+<br>
+[노션 - 이미지 지연 로딩](https://www.notion.so/14beb08bbbad4734a7fc8df0d40ec7d4?pvs=4)
+<br>
+[노션 - 리덕스 렌더링 최적화](https://www.notion.so/c13b26dfb0134fe5b908a0aaf3515df8?pvs=4)
+<br>
+[노션 - 병목 코드 최적화](https://www.notion.so/4143ac36cb4a4170a0df383e4b7ea296?pvs=4)
