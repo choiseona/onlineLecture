@@ -1,6 +1,5 @@
 # react-study-performance
 - 리액트 성능 최적화 공부한 내용 정리
-- 책 내용이라 저작권 문제가 발생할 수 있으므로 노션 비공개 처리 하였습니다
 
 ## lecture1
 [노션 - 이미지 사이즈 최적화](https://www.notion.so/c18cf58e4ba140e187be5125a13d4f83?pvs=4)
