@@ -20,23 +20,23 @@
 [노션 - 이미지 사전 로딩](https://band-channel-d23.notion.site/7f50db2216984db9b29c1fc76cfb5895?pvs=4)
 
 ## lecture3
-[노션 - 이미지 지연 로딩](https://www.notion.so/2a7e8b251adc497d86cd32eec45cef4e?pvs=4)
+[노션 - 이미지 지연 로딩](https://band-channel-d23.notion.site/2a7e8b251adc497d86cd32eec45cef4e?pvs=4)
 <br>
-[노션 - 이미지 사이즈 최적화](https://www.notion.so/9aa67a66f50c4850b916cb68efa63bd0?pvs=4)
+[노션 - 이미지 사이즈 최적화](https://band-channel-d23.notion.site/9aa67a66f50c4850b916cb68efa63bd0?pvs=4)
 <br>
-[노션 - 동영상 최적화](https://www.notion.so/b540681e54584f8999faa39856be4c5c?pvs=4)
+[노션 - 동영상 최적화](https://band-channel-d23.notion.site/b540681e54584f8999faa39856be4c5c?pvs=4)
 <br>
-[노션 - 폰트 최적화](https://www.notion.so/5538c8c3922a4879aa15834d727aa52b?pvs=4)
+[노션 - 폰트 최적화](https://band-channel-d23.notion.site/5538c8c3922a4879aa15834d727aa52b?pvs=4)
 <br>
-[노션 - 캐시 최적화](https://www.notion.so/10a88dc043de4b9fb458ac80d9f1437f?pvs=4)
+[노션 - 캐시 최적화](https://band-channel-d23.notion.site/10a88dc043de4b9fb458ac80d9f1437f?pvs=4)
 <br>
-[노션 - 불필요한 CSS 제거](https://www.notion.so/CSS-bf971b562c05432688fe52857eb3a5ad?pvs=4)
+[노션 - 불필요한 CSS 제거](https://band-channel-d23.notion.site/CSS-bf971b562c05432688fe52857eb3a5ad?pvs=4)
 
 ## lecture4
-[노션 - 레이아웃 이동 피하기](https://www.notion.so/18997df286c34a63bb5614dab3ef78d1?pvs=4)
+[노션 - 레이아웃 이동 피하기](https://band-channel-d23.notion.site/18997df286c34a63bb5614dab3ef78d1?pvs=4)
 <br>
-[노션 - 이미지 지연 로딩](https://www.notion.so/14beb08bbbad4734a7fc8df0d40ec7d4?pvs=4)
+[노션 - 이미지 지연 로딩](https://band-channel-d23.notion.site/14beb08bbbad4734a7fc8df0d40ec7d4?pvs=4)
 <br>
-[노션 - 리덕스 렌더링 최적화](https://www.notion.so/c13b26dfb0134fe5b908a0aaf3515df8?pvs=4)
+[노션 - 리덕스 렌더링 최적화](https://band-channel-d23.notion.site/c13b26dfb0134fe5b908a0aaf3515df8?pvs=4)
 <br>
-[노션 - 병목 코드 최적화](https://www.notion.so/4143ac36cb4a4170a0df383e4b7ea296?pvs=4)
+[노션 - 병목 코드 최적화](https://band-channel-d23.notion.site/4143ac36cb4a4170a0df383e4b7ea296?pvs=4)
